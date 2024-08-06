@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="612" viewBox="0 0 495 612">
+    <defs>
+        <clipPath id="wh4sxq817b">
+            <path data-name="Rectangle 57505" transform="translate(-19139 12299)" style="fill:url(#re5tcq6z1a)" d="M0 0h495v612H0z"/>
+        </clipPath>
+        <clipPath id="gt81qk94ec">
+            <path data-name="Rectangle 27689" transform="translate(.334)" style="fill:url(#re5tcq6z1a)" d="M0 0h537v630H0z"/>
+        </clipPath>
+        <linearGradient id="re5tcq6z1a" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#2c2c2c"/>
+            <stop offset="1"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Mask Group 25030" transform="translate(19139 -12299)" style="clip-path:url(#wh4sxq817b)">
+        <g data-name="Group 72548">
+            <g data-name="Mask Group 24946" transform="translate(-19207.334 12299)" style="clip-path:url(#gt81qk94ec)">
+                <g data-name="Group 66254" style="opacity:.035">
+                    <path data-name="Path 13378" d="M670.162 383.989V198.714L335.106 0 0 198.714v185.275l335.106-198.765z" transform="translate(-148.896 -125.522)" style="fill:#fff;fill-rule:evenodd"/>
+                    <path data-name="Path 13379" d="M670.162 404.058V218.834L335.106 20.069 0 218.834v185.224l335.106-198.79z" transform="translate(-148.896 116.803)" style="fill:#fff;fill-rule:evenodd"/>
+                    <path data-name="Path 13380" d="M670.162 424.006v-185.2L335.106 40.143 0 238.807v185.2l335.106-198.766z" transform="translate(-148.896 359.182)" style="fill:#fff;fill-rule:evenodd"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
