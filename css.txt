@@ -828,7 +828,7 @@
         font-size: 16px;
         margin: 2px 0;
     }
-    .Numbers .body .col-2 {
+    .Numbers .body .col-sm-2 {
         padding: 0 6px !important;
     }
     .Numbers .body .section h3 {
@@ -909,32 +909,13 @@
         width: 100px;
         height: 30px;
     }
-    /* Numbers Company section */
-    .Numbers {
-        padding: 24px 0px;
-    }
-    .Numbers h2 {
-        font-size: 26px;
-    }
-    .Numbers p {
+     /* Numbers Company section */
+     .Numbers p {
         font-size: 14px;
-        margin: 0px 0 8px 0;
-    }
-    .Numbers .body {
-        width: 100%;
-        padding-top: 5px;
-    }
-    .Numbers .body .col-2 {
-        padding: 0 0px !important;
-    }
-    .Numbers .body .section h3 {
-        font-size: 18px;
-    }
-    .Numbers .body .section h3 .plus {
-        font-size: 14px;
+        margin: 2px 0;
     }
     .Numbers .body .section p {
-        font-size: 8px;
+        font-size: 13px;
     }
 }
 @media (max-width: 420px){

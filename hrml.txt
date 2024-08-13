@@ -395,7 +395,7 @@
         <p>Our Numbers</p>
         <div class="body">
           <div class="row">
-            <div class="offset-1 col-2">
+            <div class="col-4 offset-0 col-sm-2 offset-sm-1">
               <div class="section d-flex flex-column justify-content-center align-items-center">
                 <h3>
                   <span class="number">15</span>
@@ -405,7 +405,7 @@
                 <p>Users</p>
               </div>
             </div>
-            <div class="col-2">
+            <div class="col-4 col-sm-2">
               <div class="section d-flex flex-column justify-content-center align-items-center">
                 <h3>
                   <span class="number">20</span>
@@ -415,7 +415,7 @@
                 <p>Years of auctions</p>
               </div>
             </div>
-            <div class="col-2">
+            <div class="col-4 col-sm-2">
               <div class="section d-flex flex-column justify-content-center align-items-center">
                 <h3>
                   <span class="number">2300</span>
@@ -425,8 +425,8 @@
                 <p>Auctions</p>
               </div>
             </div>
-            <div class="col-2">
-              <div class="section d-flex flex-column justify-content-center align-items-center">
+            <div class="col-4 offset-2 offset-sm-0 col-sm-2">
+              <div class="section pt-4 pt-sm-0 d-flex flex-column justify-content-center align-items-center">
                 <h3>
                   <span class="number">1000</span>
                   <span></span>
@@ -435,8 +435,8 @@
                 <p>Employees</p>
               </div>
             </div>
-            <div class="col-2">
-              <div class="section d-flex flex-column justify-content-center align-items-center">
+            <div class="col-4 col-sm-2">
+              <div class="section pt-4 pt-sm-0 d-flex flex-column justify-content-center align-items-center">
                 <h3>
                   <span class="number">32</span>
                   <span></span>
